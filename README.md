@@ -14,9 +14,11 @@ api-age is a PHP Library for get information about your birth date and age
 ## Example
 ```
 domain.com/age.php?1404/04/04
+domain.com/age-2.php?1404/04/04
 ```
 ## Files
 * [`age.php`](https://github.com/ajcode79/api-age/blob/master/age.php)
+* [`age-2.php`](https://github.com/ajcode79/api-age/blob/master/age-2.php)
 
 ## About Us
 By using this code, you can get information about your date of birth and age
